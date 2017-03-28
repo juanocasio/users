@@ -11,6 +11,7 @@
   "author": "Juan Ocasio",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.15.3",
     "express": "^4.15.2",
     "express-graphql": "^0.6.3",
     "graphql": "^0.9.1",
